@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\Debug\AssemblerApplication2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication2.map</FILE>
+  <FILE>AssemblerApplication2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <tabla_teclado><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>14</LINE></tabla_teclado>
+  <tabla_display><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>15</LINE></tabla_display>
+  <setup><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>18</LINE></setup>
+  <main><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>127</LINE></main>
+  <comparacion><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>151</LINE></comparacion>
+  <loop_comp><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>155</LINE></loop_comp>
+  <retorno_comp><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>174</LINE></retorno_comp>
+  <signo_apretado><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>171</LINE></signo_apretado>
+  <display><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>192</LINE></display>
+  <suma_signo><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>178</LINE></suma_signo>
+  <guardar_signo><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>184</LINE></guardar_signo>
+  <retorno_display_signo><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>186</LINE></retorno_display_signo>
+  <display_con_signo_recien_apretado><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>210</LINE></display_con_signo_recien_apretado>
+  <display_sin_signo><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>218</LINE></display_sin_signo>
+  <main_recien_apretado><FILE>C:\Users\ruizmunoz\Desktop\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>222</LINE></main_recien_apretado>
+ </LABELS>
+</ASSEMBLER_INFO>
